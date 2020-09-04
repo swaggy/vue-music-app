@@ -29,7 +29,7 @@
     "css-loader": "^2.1.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "postcss-plugin-px2rem": "^0.8.1",
     "px2rem-loader": "^0.1.9",
     "sass-loader": "^7.1.0",
